@@ -1,1 +1,2 @@
 Here's some text.
+Git commit test without -m
